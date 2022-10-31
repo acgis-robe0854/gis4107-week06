@@ -8,3 +8,4 @@ def get_db_link(building_code):
         return check 
 
 
+print (get_db_link("NN-LHH-NNN123-NNN"))
